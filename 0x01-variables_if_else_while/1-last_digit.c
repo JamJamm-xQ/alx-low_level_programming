@@ -2,7 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-*This program will assign a random number to the variable n each time it is executed and check if it is greater than 5, is equal t o zero or less than 6
+*main: Beginnig of program
+*Random generated numbers and check if positive, zero or negative.
+*Return: value 0 
 **/
 int main(void)
 {
