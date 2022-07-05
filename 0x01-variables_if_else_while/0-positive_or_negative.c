@@ -2,16 +2,16 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-*main: Beginnig of program
+*main: Beginning of program
 *Random generated numbers and check if positive, zero or negative.
-*Return: value 0 
+*Return: value 0 (Accept)
 **/
 int main(void)
 {
-        int n;
+	int n;
 
-        srand(time(0));
-        n = rand() - RAND_MAX / 2;
+	srand(time(0));
+	n = rand() - RAND_MAX / 2;
 	if (n < 0)
 	{
 		printf("%d is negative\n", n);

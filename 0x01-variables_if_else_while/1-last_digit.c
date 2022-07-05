@@ -4,7 +4,7 @@
 /**
 *main: Beginnig of program
 *Random generated numbers and check if positive, zero or negative.
-*Return: value 0 
+*Return: value 0
 **/
 int main(void)
 {
