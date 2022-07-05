@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-*main: Beginning of program
+*main - Beginning of program
 *Random generated numbers and check if positive, zero or negative.
 *Return: value 0 (Accept)
 **/
