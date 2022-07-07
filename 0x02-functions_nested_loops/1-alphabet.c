@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*main - Start of Program
+*print_alphabet - Start of Program
 *print a-z using putchar
 *Return: Value 0.
 **/
