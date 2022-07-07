@@ -4,7 +4,7 @@
 *print a-z using putchar
 *Return: Value 0 
 **/
-int main(void)
+void print_alphabet(void)
 {
 	char alphabet;
 
@@ -14,5 +14,5 @@ int main(void)
 		_putchar(alphabet);
 	}
 	_putchar('\n');
-	return (0);
+	
 }
