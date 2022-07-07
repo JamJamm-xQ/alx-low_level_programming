@@ -2,7 +2,7 @@
 /**
 *print_alphabet_x10 - Start of Program
 *print a-z using putchar
-*Return: Value 0 
+*Return: Value 0.
 **/
 void print_alphabet_x10(void)
 
