@@ -5,7 +5,8 @@
  * * @b: Pointer to int b location
  * *Return: Null/Void
  * **/
-void swap_int(int *a, int*b){
+void swap_int(int *a, int*b)
+{
 	int p = *a;
 	int q = *b;
 
