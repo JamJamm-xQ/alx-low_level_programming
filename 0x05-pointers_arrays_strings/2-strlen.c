@@ -1,3 +1,4 @@
+#include <string.h>
 #include "main.h"
 /**
  * * _strlen - check length of variable
@@ -6,5 +7,8 @@
  * **/
 int _strlen(char *s)
 {
-	strlen(*s);
+	char stri;
+
+	stri = *s;
+	strlen(stri);
 }
