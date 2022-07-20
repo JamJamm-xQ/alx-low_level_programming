@@ -4,7 +4,7 @@
  * @s: Pointer to string location
  * @accept: bytes to filter
  * Return: Pointer to memory s
- */
+ **/
 unsigned int _strspn(char *s, char *accept)
 {
 	int i = 0;
