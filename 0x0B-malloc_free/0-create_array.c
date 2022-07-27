@@ -1,4 +1,4 @@
-nclude <stdlib.h>
+#include <stdlib.h>
 /**
  *  * *create_array - Create dynamic array and initialize with a character
  *   * @size: size of the array
